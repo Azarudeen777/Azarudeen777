@@ -1,3 +1,4 @@
+![logo](https://github.com/Azarudeen777/Azarudeen777/blob/master/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Azarudeen</h1>
 <h3 align="center">Exploring data to solve real-world problems</h3>
 
@@ -48,14 +49,5 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azarudeen777&show_icons=true&theme=default&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azarudeen777&theme=default" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarudeen777&layout=compact&cache_seconds=1800" width="40%"/>
-</p>
 
